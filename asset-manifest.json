@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/libro360/static/css/main.f3d5208e.css",
+    "main.js": "/libro360/static/js/main.b0a2609a.js",
+    "static/js/488.82b71c8e.chunk.js": "/libro360/static/js/488.82b71c8e.chunk.js",
+    "static/media/T-360-Logo.png": "/libro360/static/media/T-360-Logo.86132066e3dfb5c77a1c.png",
+    "static/media/Capgemini-Logo.png": "/libro360/static/media/Capgemini-Logo.fa52b17c67525289ed1f.png",
+    "static/media/google2.0.0.1441125613.png": "/libro360/static/media/google2.0.0.1441125613.21b453ceb764b256f99c.png",
+    "static/media/tcs_logo_1200_020621101143.png": "/libro360/static/media/tcs_logo_1200_020621101143.9427c90bbd80579e72a6.png",
+    "static/media/infosys-logo-jpeg.png": "/libro360/static/media/infosys-logo-jpeg.3ffe07cf123520f88dad.png",
+    "static/media/416_ibm.png": "/libro360/static/media/416_ibm.3489f9029a46ba49c6be.png",
+    "static/media/1200px-HP_logo_2012.svg.png": "/libro360/static/media/1200px-HP_logo_2012.svg.7099f076f7d65a17a942.png",
+    "static/media/amazon logo.png": "/libro360/static/media/amazon logo.b50606429bde21805886.png",
+    "index.html": "/libro360/index.html",
+    "main.f3d5208e.css.map": "/libro360/static/css/main.f3d5208e.css.map",
+    "main.b0a2609a.js.map": "/libro360/static/js/main.b0a2609a.js.map",
+    "488.82b71c8e.chunk.js.map": "/libro360/static/js/488.82b71c8e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f3d5208e.css",
+    "static/js/main.b0a2609a.js"
+  ]
+}
