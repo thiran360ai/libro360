@@ -27,7 +27,12 @@ const QuestionPage = () => {
     useEffect(() => {
         const fetchLanguages = async () => {
             try {
-                const response = await axios.get('https://5aca-59-97-51-97.ngrok-free.app/compiler/languages/');
+                const response = await axios.get('https://5aca-59-97-51-97.ngrok-free.app/compiler/languages/',{
+                    headers: {
+                      Accept: 'application/json',
+                      'ngrok-skip-browser-warning': '98547',
+                    },
+                  });
                 console.log('Languages response:', response.data);
                 if (response.status === 200 && Array.isArray(response.data)) {
                     setLanguages(response.data);
